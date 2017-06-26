@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=notify-listener
+GenericName=notify-listner
+Comment=Start irssi notify listener at startup
+Exec=notifier-listener.py
+Terminal=false
+Type=Application
+X-GNOME-Autostart-enabled=true
+
